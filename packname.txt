@@ -1,0 +1,3 @@
+resource pack
+ª this will be the name of the resoure pack.
+Make sure that this txt file is encoded in ANSI, if it's not, "˜" will be garbled.
